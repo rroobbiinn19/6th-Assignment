@@ -1,0 +1,66 @@
+.google{
+	margin: auto;
+	text-align: center;
+	width: 1200px;
+}
+.start{
+	margin: auto;
+	text-align: center;
+	font-size: 30px;
+	width: 1200px;
+	padding-bottom: 10px;
+}
+.google img{
+	width: 300px;
+}
+.mission{
+	color: #C3EF0E;
+}
+.orh{
+	color: #EC7063;
+}
+.information{
+	color: #B50EEF;
+}
+.uni{
+	color: #0EBCEF;
+}
+.acce{
+	color: #EF0E4F;
+}
+.use{
+	color: #F3A908;
+}
+.photo{
+	margin: auto;
+	text-align: center;
+	padding-top: 10px;
+}
+.photo img{
+	width: 1200px;
+	border-radius: 5px;
+	box-shadow: 3px 3px 20px #47d2e8;
+}
+.budge{
+	font-size: 40px;
+	color: red;
+	width: 1200px;
+	margin: auto;
+	padding-top: 10px;
+}
+.Lorem{
+	font-size: 20px;
+	font-family: cursive;
+	width: 1200px;
+	margin: auto;
+	padding-top: 10px;
+}
+.last{
+	margin: auto;
+	text-align: center;
+	color: yellow;
+	background-color: #47d2e8;
+	font-size: 50px;
+	width: 1100px;
+	margin: auto;
+	padding: 50px
